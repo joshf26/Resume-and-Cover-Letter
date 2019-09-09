@@ -1,0 +1,86 @@
+* {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: blue;
+}
+
+ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+hr {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 1px solid black;
+}
+
+.resume {
+    width: 850px;
+    height: 1100px;
+
+    /* Comment out the two lines below for a printer friendly version. */
+    background: #e2e2e2;
+    box-shadow: inset 0 0 100px black;
+}
+
+.center {
+    text-align: center;
+}
+
+.material-icons {
+    float: right;
+}
+
+.header {
+    padding: 20px;
+}
+
+.small-column {
+    position: absolute;
+    top: 125px;
+    left: 15px;
+    max-width: 320px;
+}
+
+.large-column {
+    margin-left: 355px;
+    width: 470px;
+}
+
+.card {
+    padding: 15px;
+    background-color: blue;
+    color: white;
+    max-width: 100%;
+    box-shadow: 2px 2px 2px black;
+    margin-bottom: 15px;
+    text-shadow: black 1px 1px;
+}
+
+.section-header {
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.emphasis {
+    color: #ff480f;
+    font-weight: bold;
+}
+
+.name {
+    font-size: 48px;
+    text-shadow: black 1px 1px;
+}
+
+.bottom-link {
+    margin-top: 15px;
+}
