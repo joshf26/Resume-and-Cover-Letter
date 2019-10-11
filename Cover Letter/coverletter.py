@@ -27,7 +27,7 @@ class CoverLetter:
             return 'nothing'
 
         # Make a comma separated list with an "and" at the end.
-        return ', '.join(intersection[:-1]) + ', and ' + intersection[-1]
+        return ', '.join(intersection[:-1]) + ' and ' + intersection[-1]
 
     def _lookup(self, key):
         """ Lookup a key in the config. """
