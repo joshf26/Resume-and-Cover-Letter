@@ -23,8 +23,13 @@ class CoverLetter:
 
         # Only use skills that are present in both lists.
         intersection = [skill for skill in position_skills if skill in info_skills]
-        if not intersection:
+
+        if len(intersection) == 0:
+            print(f'Warning: There are no {key} skills that intersect.')
             return 'nothing'
+        elif len(intersection) == 1:
+            # No need for a comma seperated list
+            return intersection[0]
 
         # Make a comma separated list with an "and" at the end.
         return ', '.join(intersection[:-1]) + ' and ' + intersection[-1]
