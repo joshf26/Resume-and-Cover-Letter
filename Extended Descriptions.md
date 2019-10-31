@@ -31,7 +31,7 @@ As the Vice President of the Computer Graphics Group, I frequently give and list
 
 ### CU Cyber Security Club
 _Aug 2017 - Present_ \
-As a member of the Cyber Security Club, I attend talks and activities that teach various cyber security vulnerabilities, attacks, and defences.
+As a member of the Cyber Security Club, I attend talks and activities that teach various cyber security vulnerabilities, attacks, and defenses.
 
 ### CU Game Development Club
 _Aug 2017 - Present_ \
