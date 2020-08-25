@@ -1,6 +1,11 @@
 # Extended Descriptions
 Extended descriptions of each of my experiences for online applications.
 
+### Amazon
+_May 2020 - Aug 2020_ \
+_Seattle, WA (Virtual)_ \
+At Amazon, I created a web-based log exploration tool that facilitated my team's process for querying logs and performing actions on them. I worked closely with the tool's customers to tailor the tool to their exact needs. Throughout this internship, I sharpened my skills in Kotlin, React, Spring, Groovy, Spock, Java, and TypeScript, HTML, CSS, Git, Agile, and working on a team.
+
 ### Lucid Software
 _May 2019 - Aug 2019_ \
 _South Jordan, UT_ \
@@ -9,7 +14,7 @@ At Lucid Software, I integrated various high level refactors like framework migr
 ### Cambridge Mobile Telematics
 _May 2018 - Aug 2018_ \
 _Cambridge, MA_ \
-At Cambridge Mobile Telematics, I created new features for a web portal that utilized a Python/Django and PHP backend. I worked with continuous customer feedback to tune the service to fully meet their needs. Throughout this experience, I was able to sharpen my skills in Python, Django, SQL, PHP, HTML, JavaScript, CSS, Git, Agile, and working on a team.
+At Cambridge Mobile Telematics, I created new features for a web portal that utilized a Python/Django and PHP backend. I worked with continuous customer feedback to tune the service to fully meet their needs. Throughout this internship, I was able to sharpen my skills in Python, Django, SQL, PHP, HTML, JavaScript, CSS, Git, Agile, and working on a team.
 
 ### PatientKeeper
 _Jun 2015 - Jul 2015_ \
