@@ -28,7 +28,7 @@ class CoverLetter:
             print(f'Warning: There are no {key} skills that intersect.')
             return 'nothing'
         elif len(intersection) == 1:
-            # No need for a comma seperated list
+            # No need for a comma separated list
             return intersection[0]
 
         # Make a comma separated list with an "and" at the end.
